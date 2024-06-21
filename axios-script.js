@@ -1,5 +1,4 @@
 const breedSelect = document.getElementById("breedSelect");
-
 const infoDump = document.getElementById("infoDump");
 const catFaves = document.getElementById("cat-column");
 const faveBtn = document.getElementById("getFavouritesBtn");
